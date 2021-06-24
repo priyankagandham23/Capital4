@@ -1,0 +1,10 @@
+a{
+    padding:5px;
+}
+.active{
+    background-color: #0000ff;
+}
+a:hover{
+    background-color: #0000ff;
+    /* margin:5px; */
+}
